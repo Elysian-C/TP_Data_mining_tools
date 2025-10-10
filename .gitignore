@@ -1,0 +1,14 @@
+# Ignore raw dataset file
+reddit_depression_dataset.csv
+
+# Ignore Jupyter notebook checkpoints and outputs
+.ipynb_checkpoints/
+
+# Ignore Python cache and virtualenv
+__pycache__/
+*.py[cod]
+venv/
+
+# OS files
+Thumbs.db
+.DS_Store
