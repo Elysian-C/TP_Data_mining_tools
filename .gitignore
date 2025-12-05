@@ -12,3 +12,5 @@ venv/
 # OS files
 Thumbs.db
 .DS_Store
+
+bert_finetuned_optuna/model.safetensors
